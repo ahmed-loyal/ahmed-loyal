@@ -1,7 +1,7 @@
-### Hi there 👋, I'm Ahmed Loyal
+# Hi there 👋, I'm Ahmed Loyal
 I'm a software engineer with a passion for all things development. I thrive on learning by doing, constantly exploring new technologies and honing my skills through hands-on experience. Whether it's building robust applications, solving complex problems, or diving into the latest trends in the industry, I'm always eager to take on new challenges and grow as a developer.
 
-### Skills and Experience
+## Skills and Experience
 > React,
 > React Native,
 > Node Js,
