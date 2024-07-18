@@ -8,8 +8,6 @@ I'm a software engineer with a passion for all things development. I thrive on l
 > Python,
 > HTML, CSS, JS
 
-- 🔭 I’m currently working on acquiring skills 
-- 🌱 I’m currently learning JavaScript and Python 
 - 📫 How to reach me: mail to awojobiahmed@gmail.com 
 
 
