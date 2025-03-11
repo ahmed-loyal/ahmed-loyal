@@ -3,7 +3,6 @@ I'm a self-taught software engineer with passion for all things software develop
 
 ## Skills and Experience
 > React,
-> React Native,
 > Node Js,
 > Python,
 > HTML, CSS, JS
