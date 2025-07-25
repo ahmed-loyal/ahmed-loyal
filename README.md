@@ -12,9 +12,10 @@ I hold a Bachelor's degree in English Literature and have a strong passion for c
 > Microsoft Office Tools (Word, Excel, Powerpoint, outlook, etc.)
 > Communication.
 
-### Read copies of my works
-<a href="https://medium.com/@awojobiahmed71" >Medium.com<a/>
-<a href="https://authory.com/AhmedAwojobi" >Authory.com<a/>
+## Read copies of my works
+**<a href="https://medium.com/@awojobiahmed71" >Medium.com</a>**
+<br/>
+**<a href="https://authory.com/AhmedAwojobi" >Authory.com</a>**
 
 **I'm always open to networking, collaborations, and opportunities that allow me to learn and contribute to innovative projects. Let's connect!**
 
