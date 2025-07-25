@@ -6,6 +6,7 @@ I hold a Bachelor's degree in English Literature and have a strong passion for c
 > Digital Marketing (Content Strategy, SEO, Social Media, Email, Ads, etc.),
 > Software Engineering (HTML, CSS, JavaScript, React & Nextjs, Node & expressjs, Python, SQL, Frontend Development, Backend Development, AI, Machine Learning, Data Science, Product Development & Designing, etc.),
 > Canva (Graphic design and social media content creation),
+> Figma (UI/UX Designs),
 > Adobe Premiere Pro (Video Editing),
 > Google Workspace (Productivity and Collaboration),
 > Microsoft Office Tools (Word, Excel, Powerpoint, outlook, etc.)
