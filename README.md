@@ -12,13 +12,16 @@ I hold a Bachelor's degree in English Literature and have a strong passion for c
 > Microsoft Office Tools (Word, Excel, Powerpoint, outlook, etc.)
 > Communication.
 
+### Read my copies of my works
+[<a href="https://medium.com/@awojobiahmed71" >Medium.com<a/>]
+[<a href="https://authory.com/AhmedAwojobi" >Authory.com<a/>]
 
 **I'm always open to networking, collaborations, and opportunities that allow me to learn and contribute to innovative projects. Let's connect!**
 
  #### 📫 How to reach me: mail to awojobiahmed@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmed-loyal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmed-awojobi-a56b591b7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/harmerd.harwojorbi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ahmed_loyal_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ahmed_loyal_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ahmedloyal.github.io)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmed-loyal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmed-awojobi-a56b591b7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/harmerd.harwojorbi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ahmed_loyal_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ahmed_loyal_)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-loyal)](https://github.com/anuraghazra/github-readme-stats)
 
