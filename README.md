@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Ahmed Loyal
-I hold a Bachelor's degree in English Literature and have a strong passion for creativity, communication, and technology. Currently, I am expanding my expertise by building skills in **Digital Marketing**, **Writing**, and **Software Engineering**, with a focus on leveraging technology and storytelling to create impactful solutions. My background in literature equips me with exceptional analytical and communication skills, while my growing technical knowledge allows me to bridge the gap between creative expression and digital innovation.
+I hold a Bachelor's degree in English Literature and have a strong passion for creativity, communication, and technology. Currently, I am expanding my expertise by building skills in **Digital Marketing**, **Writing**, and **programming**, with a focus on leveraging technology and storytelling to create impactful solutions. My background in literature equips me with exceptional analytical and communication skills, while my growing technical knowledge allows me to bridge the gap between creative expression and digital innovation.
 
 ## Core Skills & Arear of Growth
 > Writing & Editing (Creative, Business, Technical, etc.),
 > Digital Marketing (Content Strategy, SEO, Social Media, Email, Ads, etc.),
-> Software Engineering (HTML, CSS, JavaScript, React & Nextjs, Node & expressjs, Python, SQL, Frontend Development, Backend Development, AI, Machine Learning, Data Science, Product Development & Designing, etc.),
+> Software Engineering (HTML, CSS, JavaScript, Python, Frontend Development, Backend Development, AI, Machine Learning, Data Science, Product Development & Designing, etc.),
 > Canva (Graphic design and social media content creation),
 > Figma (UI/UX Designs),
 > Adobe Premiere Pro (Video Editing),
